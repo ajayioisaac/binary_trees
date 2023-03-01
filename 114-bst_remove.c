@@ -1,4 +1,4 @@
-#include "binary_trees.h"
+#include <binary_trees.h>
 
 /**
  * bst_remove - removes a node from a Binary Search Tree
